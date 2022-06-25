@@ -4,3 +4,38 @@ Most problems are process-related (not people-related)
 Low motivation - Do we take regular feedback from software devlopers and their peers?
 Lack of skill - Process failure
 96% of problems are process related.
+
+For our first project:
+- Greenfield
+- Everyone co-located
+- T&M 
+Iteration 0 : First 2 weeks.
+	1. Vision
+	2. High level architure.
+	3. Product backlog - 200 User stories
+Iteration 1: 2 weeks.
+	- 5 user stories.
+	- For these 5: Analysis, Design, Coding, Testing.
+	- Output of iteration will be production grade code with 5 features.
+Iteration 2: 2 weeks.
+	- 4 user stories.
+	- For these 4: Analysis, Design, Coding, Unit Testing.
+	- For all 9: Integration, system and acceptance testing.
+	- Output of iteration will be production grade code with 9 features.
+Iteration 3: 2 weeks.
+	- 6 user stories.
+	- For these 6: Analysis, Design, Coding, Unit Testing.
+	- For all 15: Integration, system and acceptance testing.
+	- Output of iteration will be production grade code with 15 features.
+Answer: Top is Agile, Bottom is Predictive
+
+Choice 1: Predictive, 10 months
+Choice 2: Agile
+	After 2 months - Static web pages.
+	After 5 months - Shopping cart.
+	After few more months - Project is complete.
+
+
+
+
+
