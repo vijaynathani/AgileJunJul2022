@@ -36,6 +36,58 @@ Choice 2: Agile
 	After few more months - Project is complete.
 
 
+Exercise:
+1. Compare Code&Fix with Agile
+2. Compare Predictive with Agile
+
+
+Cycle Time: From the day the customer says this feature is most important, to the day we put the feature in production.
+
+
+	In last sprint we had 500  hours and we did 20 SPs.
+	In next sprint we have 401 hours, we can do 16SPs.s
+
+	In Sprint1, we did 210 SPs.
+	In Sprint2, we did 170 SPs.
+	In Sprint3, we did 240 SPs.
+	Average velocity = 207 SPs.
+Question 1) We can do 4 sprints
+	Total SPs = 207 SP/sprint * 4 sprints = 828 SPs
+	We can do 25 user stories.
+Question 2) To do 510SPs, we need 3 sprints
+	Time = 3 sprints * 4 weeks/sprint + 2 weeks = 14 weeks.
+	Ans) 8-APR
+Question 3) To do 1080 SPs, we need 6 sprints
+	Time = 6 * 4 + 2 = 26 weeks.
+        Ans) No
+
+You want training?
+	ScrumMaster will calcualate the cost of training = $500.
+	Benefit will be 10% increase in productivity.
+	Per sprint we are spending $5000.
+
+Cycle Time:
+	1) 4 weeks.
+	2) 2 weeks
+	3) 2 week / sprint * 10 sprints + 4 weeks = 24 weeks
+
+PO is evaluated based on the profitability of the project.
+SM is evaluated based on cycle time and Productivity
+
+Contracts: 
+	1) T&M
+	2) Rolling contract
+	3) Fixed price, fixed duration but variable scope.
+	4) Fixed price, fixed duration, fixed scope - Not recommend.
+
+
+
+
+
+
+
+
+
 
 
 
