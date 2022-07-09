@@ -92,3 +92,4 @@ Exercise:
 Write user stories for a messaging App?
 Write tests to prevent defects for these user stories?
 Email me the answer.
+Take lunch break also. Next session starts at 2:30PM.
