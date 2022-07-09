@@ -93,3 +93,8 @@ Write user stories for a messaging App?
 Write tests to prevent defects for these user stories?
 Email me the answer.
 Take lunch break also. Next session starts at 2:30PM.
+
+Fill feedback form (Link in chat window)
+Solve the objective test paper (test.pdf) on Github.
+Email me the solution/doubts by 5PM.
+I will keep the answers on github after 5PM.
