@@ -78,9 +78,13 @@ Contracts:
 	1) T&M
 	2) Rolling contract
 	3) Fixed price, fixed duration but variable scope.
-	4) Fixed price, fixed duration, fixed scope - Not recommend.
+	4) Fixed price, fixed duration, fixed scope - Not recommended.
 ============================================
 Day 2: Agile with Scrum training
 Github: https://bit.ly/3xR8ort
 
+Why go Agile?
+- ROI
+- Project will finish on date
+- More and faster feedback results in better customer satisfaction.
 
