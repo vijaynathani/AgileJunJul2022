@@ -79,15 +79,8 @@ Contracts:
 	2) Rolling contract
 	3) Fixed price, fixed duration but variable scope.
 	4) Fixed price, fixed duration, fixed scope - Not recommend.
-
-
-
-
-
-
-
-
-
-
+============================================
+Day 2: Agile with Scrum training
+Github: https://bit.ly/3xR8ort
 
 
