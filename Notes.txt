@@ -88,3 +88,7 @@ Why go Agile?
 - Project will finish on date
 - More and faster feedback results in better customer satisfaction.
 
+Exercise:
+Write user stories for a messaging App?
+Write tests to prevent defects for these user stories?
+Email me the answer.
